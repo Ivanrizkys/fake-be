@@ -1,0 +1,123 @@
+{
+  "users": [
+    {
+      "id": "ae250a546236a4cfd3bcdede65ccabd7",
+      "name": "Tami Sporer II",
+      "email": "Merlin_Lindgren@hotmail.com",
+      "gender": "Demi-man",
+      "job": "Liaison"
+    },
+    {
+      "id": "696aa2faaf59f54d3df93f525d6424e6",
+      "name": "Grant Zboncak",
+      "email": "Devante48@gmail.com",
+      "gender": "Male to female trans woman",
+      "job": "Developer"
+    },
+    {
+      "id": "ecc0f35001b294e161eba127e8c3378e",
+      "name": "Pedro Spencer",
+      "email": "Josh_Fadel39@gmail.com",
+      "gender": "Androgynous",
+      "job": "Director"
+    },
+    {
+      "id": "5e30edae5612efc7f5f38c537fec55af",
+      "name": "Josephine Auer DDS",
+      "email": "Hilton.Schowalter89@gmail.com",
+      "gender": "Transgender person",
+      "job": "Developer"
+    },
+    {
+      "id": "7030aea01db394572c76f9dc2d6ccdbb",
+      "name": "Daisy Ward",
+      "email": "Thalia.Bergstrom24@gmail.com",
+      "gender": "Cis female",
+      "job": "Agent"
+    },
+    {
+      "id": "ba36996f855fa3c338372f4f7849c042",
+      "name": "Kristine Abshire",
+      "email": "Audra_Gottlieb@hotmail.com",
+      "gender": "Trans person",
+      "job": "Assistant"
+    },
+    {
+      "id": "d9e6120fcff67f2631d7cdcd30442371",
+      "name": "Alma Erdman",
+      "email": "Kali_Hartmann82@gmail.com",
+      "gender": "Transexual person",
+      "job": "Designer"
+    },
+    {
+      "id": "0df3df69dc68d2c8a565391b103ff1ad",
+      "name": "Ervin Murazik",
+      "email": "Eugenia_Bernhard92@hotmail.com",
+      "gender": "Gender variant",
+      "job": "Developer"
+    },
+    {
+      "id": "2fbc7a2c61612b91f390c7ee24174c34",
+      "name": "Jean Gusikowski",
+      "email": "Delta75@yahoo.com",
+      "gender": "Genderqueer",
+      "job": "Analyst"
+    }
+  ],
+  "products": [
+    {
+      "id": "64acddfd805de6a98ab0ec4652a7bb88",
+      "product": "Computer",
+      "price": "483.00",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016"
+    },
+    {
+      "id": "21be717f0453c7f1d84541bfb2fd4638",
+      "product": "Shirt",
+      "price": "765.00",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles"
+    },
+    {
+      "id": "9e3c4f803103c3a9888a3525e000bf5e",
+      "product": "Pants",
+      "price": "856.00",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design"
+    },
+    {
+      "id": "989bbdc3081717d6cd2ba6edc7f05fa4",
+      "product": "Bike",
+      "price": "968.00",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design"
+    },
+    {
+      "id": "c23b0509932a74b913ba0b5f4ce5dec2",
+      "product": "Chair",
+      "price": "723.00",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality"
+    },
+    {
+      "id": "c96c115e1b6ebc654f7e4e5550828566",
+      "product": "Computer",
+      "price": "47.00",
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients"
+    },
+    {
+      "id": "8abba159e0eaed494f67543989a2695a",
+      "product": "Shoes",
+      "price": "15.00",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive"
+    },
+    {
+      "id": "0e4be95b277eb4cc1e12bcafe960bfab",
+      "product": "Table",
+      "price": "534.00",
+      "description": "The Football Is Good For Training And Recreational Purposes"
+    },
+    {
+      "id": "5e3dd4597ddf579391852bb58ebd601e",
+      "product": "Chicken",
+      "price": "102.00",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016"
+    }
+  ]
+}
